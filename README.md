@@ -38,3 +38,9 @@ Phase 4
 Phase 5
 
 ### Repository Structure
+```
+webhook-platform/
+├── README.md
+├── infra/
+└── terraform/
+```
